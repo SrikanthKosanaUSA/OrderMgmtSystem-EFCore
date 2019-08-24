@@ -1,0 +1,14 @@
+C:\Users\Srikanth\source\repos\OrderMgmtSystem.NetCore\OrderMgmtSystem.NetCore\bin\Debug\netcoreapp2.1\OrderMgmtSystem.NetCore.deps.json
+C:\Users\Srikanth\source\repos\OrderMgmtSystem.NetCore\OrderMgmtSystem.NetCore\bin\Debug\netcoreapp2.1\OrderMgmtSystem.NetCore.runtimeconfig.json
+C:\Users\Srikanth\source\repos\OrderMgmtSystem.NetCore\OrderMgmtSystem.NetCore\bin\Debug\netcoreapp2.1\OrderMgmtSystem.NetCore.runtimeconfig.dev.json
+C:\Users\Srikanth\source\repos\OrderMgmtSystem.NetCore\OrderMgmtSystem.NetCore\bin\Debug\netcoreapp2.1\OrderMgmtSystem.NetCore.dll
+C:\Users\Srikanth\source\repos\OrderMgmtSystem.NetCore\OrderMgmtSystem.NetCore\obj\Debug\netcoreapp2.1\OrderMgmtSystem.NetCore.csprojAssemblyReference.cache
+C:\Users\Srikanth\source\repos\OrderMgmtSystem.NetCore\OrderMgmtSystem.NetCore\obj\Debug\netcoreapp2.1\OrderMgmtSystem.NetCore.csproj.CoreCompileInputs.cache
+C:\Users\Srikanth\source\repos\OrderMgmtSystem.NetCore\OrderMgmtSystem.NetCore\obj\Debug\netcoreapp2.1\OrderMgmtSystem.NetCore.RazorAssemblyInfo.cache
+C:\Users\Srikanth\source\repos\OrderMgmtSystem.NetCore\OrderMgmtSystem.NetCore\obj\Debug\netcoreapp2.1\OrderMgmtSystem.NetCore.RazorAssemblyInfo.cs
+C:\Users\Srikanth\source\repos\OrderMgmtSystem.NetCore\OrderMgmtSystem.NetCore\obj\Debug\netcoreapp2.1\OrderMgmtSystem.NetCore.AssemblyInfoInputs.cache
+C:\Users\Srikanth\source\repos\OrderMgmtSystem.NetCore\OrderMgmtSystem.NetCore\obj\Debug\netcoreapp2.1\OrderMgmtSystem.NetCore.AssemblyInfo.cs
+C:\Users\Srikanth\source\repos\OrderMgmtSystem.NetCore\OrderMgmtSystem.NetCore\obj\Debug\netcoreapp2.1\OrderMgmtSystem.NetCore.RazorTargetAssemblyInfo.cache
+C:\Users\Srikanth\source\repos\OrderMgmtSystem.NetCore\OrderMgmtSystem.NetCore\bin\Debug\netcoreapp2.1\OrderMgmtSystem.NetCore.pdb
+C:\Users\Srikanth\source\repos\OrderMgmtSystem.NetCore\OrderMgmtSystem.NetCore\obj\Debug\netcoreapp2.1\OrderMgmtSystem.NetCore.dll
+C:\Users\Srikanth\source\repos\OrderMgmtSystem.NetCore\OrderMgmtSystem.NetCore\obj\Debug\netcoreapp2.1\OrderMgmtSystem.NetCore.pdb
